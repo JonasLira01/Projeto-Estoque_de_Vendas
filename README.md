@@ -1,18 +1,23 @@
-## Getting Started
+# Sistema de Estoque de Vendas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto desenvolvido em Java para gerenciamento de estoque.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Cadastro de produtos
+- Listagem de produtos
+- Atualização de estoque
+- Remoção de produtos
+- Persistência em arquivo CSV
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- Programação Orientada a Objetos
+- Manipulação de Arquivos (CSV)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como executar
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone o repositório
+2. Abra no VS Code ou Eclipse
+3. Execute a classe Main
